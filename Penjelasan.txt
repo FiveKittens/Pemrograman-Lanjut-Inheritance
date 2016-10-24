@@ -1,0 +1,6 @@
+//private
+sintak private digunakan untuk mencegah suatu variabel digunakan oleh class atau entitas lain.
+//setter and getter
+merupakan proses setter dan getter untuk memasukkan nilai kedalam variabel private. setter dan getter di deklarasikan sebagai fungsi publik sehingga bisa diakses oleh program utama.
+//instance
+proses untuk memanggil suatu class ke dalam class utama dimana class utama terdapat fungsi main.

@@ -1,0 +1,12 @@
+C:\Users\xenom_user\AppData\Local\Temporary Projects\Pewarisan\bin\Debug\Pewarisan.exe.config
+C:\Users\xenom_user\AppData\Local\Temporary Projects\Pewarisan\bin\Debug\Pewarisan.exe
+C:\Users\xenom_user\AppData\Local\Temporary Projects\Pewarisan\bin\Debug\Pewarisan.pdb
+C:\Users\xenom_user\AppData\Local\Temporary Projects\Pewarisan\obj\Debug\Pewarisan.csprojResolveAssemblyReference.cache
+C:\Users\xenom_user\AppData\Local\Temporary Projects\Pewarisan\obj\Debug\Pewarisan.exe
+C:\Users\xenom_user\AppData\Local\Temporary Projects\Pewarisan\obj\Debug\Pewarisan.pdb
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\AppLatihan2\Pewarisan\Pewarisan\bin\Debug\Pewarisan.exe.config
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\AppLatihan2\Pewarisan\Pewarisan\obj\Debug\Pewarisan.exe
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\AppLatihan2\Pewarisan\Pewarisan\obj\Debug\Pewarisan.pdb
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\AppLatihan2\Pewarisan\Pewarisan\bin\Debug\Pewarisan.exe
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\AppLatihan2\Pewarisan\Pewarisan\bin\Debug\Pewarisan.pdb
+C:\Users\xenom_user\Documents\Visual Studio 2015\Projects\AppLatihan2\Pewarisan\Pewarisan\obj\Debug\Pewarisan.csprojResolveAssemblyReference.cache
